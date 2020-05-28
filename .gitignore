@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/oktatest/.vs/oktatest
+/oktatest/oktatest/bin/Debug/netcoreapp3.1
+/oktatest/oktatest/obj
